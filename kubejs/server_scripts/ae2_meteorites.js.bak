@@ -1,0 +1,4 @@
+ServerEvents.tags('worldgen/biome', event => {
+  event.removeAll('ae2:has_meteorites')
+  event.add('ae2:has_meteorites', 'minecraft:ocean')
+})
