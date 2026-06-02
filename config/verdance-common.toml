@@ -1,0 +1,8 @@
+can_bonemeal_sugar_cane = true
+can_bonemeal_spore_blossom = true
+# Default: 0.25
+# Range: 0.0 ~ 1.0
+mulberry_forest_proportion = 0.25
+# Default: 0.35
+# Range: 0.0 ~ 1.0
+shrublands_proportion = 0.35
