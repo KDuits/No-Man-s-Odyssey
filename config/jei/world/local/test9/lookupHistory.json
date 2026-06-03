@@ -1,8 +1,0 @@
-[
-  {"version":1},
-  {"ingredient":{"id":"alltheores:ruby"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"alltheores:ruby_dust"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"alltheores:signalum_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"extendedae:io_bus_upgrade"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"alltheores:electrum_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"}
-]

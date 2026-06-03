@@ -165,9 +165,6 @@
 			wigglewood = true
 			grongle = true
 
-		[types.leaves_type.no_mans_delight]
-			orange_fruit = true
-
 		[types.leaves_type.roots]
 			wildwood = true
 

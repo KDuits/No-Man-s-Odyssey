@@ -79,10 +79,6 @@
 			kousa = true
 			grimwood = true
 
-		[types.wood_type.spawn]
-			rotten = true
-			date = true
-
 		[types.leaves_type.ecologics]
 			coconut = true
 			walnut = true
@@ -180,9 +176,6 @@
 
 		[types.leaves_type.ars_elemental]
 			yellow_archwood = true
-
-		[types.leaves_type.spawn]
-			date = true
 
 #Disables specific entries
 [entries]

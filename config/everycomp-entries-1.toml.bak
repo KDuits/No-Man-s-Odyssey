@@ -43,29 +43,11 @@
 			demonic = true
 			soul = true
 
-		[types.wood_type.aether]
-			skyroot = true
-
-		[types.wood_type.twilightforest]
-			twilight_oak = true
-			canopy = true
-			mangrove = true
-			dark = true
-			time = true
-			transformation = true
-			mining = true
-			sorting = true
-
 		[types.wood_type.nomansland]
 			pine = true
 			maple = true
 			walnut = true
 			willow = true
-
-		[types.wood_type.undergarden]
-			smogstem = true
-			wigglewood = true
-			grongle = true
 
 		[types.wood_type.roots]
 			wildwood = true
@@ -78,6 +60,13 @@
 			laurel = true
 			kousa = true
 			grimwood = true
+
+		[types.wood_type.verdance]
+			mulberry = true
+
+		[types.wood_type.spawn]
+			rotten = true
+			date = true
 
 		[types.leaves_type.ecologics]
 			coconut = true
@@ -116,27 +105,6 @@
 			purple_archwood = true
 			green_archwood = true
 
-		[types.leaves_type.aether]
-			skyroot = true
-			golden_oak = true
-			crystal = true
-			crystal_fruit = true
-			holiday = true
-			decorated_holiday = true
-
-		[types.leaves_type.twilightforest]
-			thorn = true
-			beanstalk = true
-			twilight_oak = true
-			canopy = true
-			mangrove = true
-			dark = true
-			rainbow_oak = true
-			time = true
-			transformation = true
-			mining = true
-			sorting = true
-
 		[types.leaves_type.nomansland]
 			yellow_birch = true
 			autumnal_oak = true
@@ -152,11 +120,6 @@
 
 		[types.leaves_type.deeperdarker]
 			echo = true
-
-		[types.leaves_type.undergarden]
-			smogstem = true
-			wigglewood = true
-			grongle = true
 
 		[types.leaves_type.roots]
 			wildwood = true
@@ -177,6 +140,16 @@
 		[types.leaves_type.ars_elemental]
 			yellow_archwood = true
 
+		[types.leaves_type.primal]
+			thorny_acacia = true
+
+		[types.leaves_type.verdance]
+			mulberry = true
+			flowering_mulberry = true
+
+		[types.leaves_type.spawn]
+			date = true
+
 #Disables specific entries
 [entries]
 
@@ -188,13 +161,6 @@
 			1 = true
 			4 = true
 			2 = true
-
-		[entries.wood_type.twilightforest]
-			hollow_log_horizontal = true
-			hollow_log_vertical = true
-			banister = true
-			hollow_log_climbable = true
-			hollow_log = true
 
 		[entries.wood_type.another_furniture]
 			flower_box = true
@@ -234,6 +200,23 @@
 			half_drawers_4 = true
 			half_drawers_2 = true
 			full_drawers_1 = true
+
+		[entries.wood_type.handcrafted]
+			counter = true
+			corner_trim = true
+			fancy_bed = true
+			desk = true
+			shelf = true
+			nightstand = true
+			cupboard = true
+			dining_bench = true
+			bench = true
+			couch = true
+			table = true
+			chair = true
+			drawer = true
+			pillar_trim = true
+			side_table = true
 
 		[entries.leaves_type.quark]
 			hedge = true

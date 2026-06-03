@@ -120,9 +120,6 @@
 			purple_archwood = true
 			green_archwood = true
 
-		[types.leaves_type.ars_zero]
-			blight_archwood = true
-
 		[types.leaves_type.aether]
 			skyroot = true
 			golden_oak = true
